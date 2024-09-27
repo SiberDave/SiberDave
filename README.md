@@ -1,5 +1,14 @@
 <div align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/845968728166114096/0B1D66E57BA169F6CDE165C30EE049C744EAF555/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%" />
+  <table align="center" >
+    <tr>
+      <td valign="center" width="70%">
+        <img src="https://steamuserimages-a.akamaihd.net/ugc/845968728166114096/0B1D66E57BA169F6CDE165C30EE049C744EAF555/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%" />
+      </td>
+      <td valign="top" width="30%">
+        <img src="Asset/God_jojo.gif" align="center" style="width: 100%" />
+      </td>
+    </tr>
+  </table>
 </div>  
 
 # 💫 About Me:
@@ -52,5 +61,6 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiberDave&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=SiberDave&icon=1&color=1)](https://visitcount.itsvg.in)
 
