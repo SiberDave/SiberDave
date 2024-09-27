@@ -15,6 +15,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&size=25&pause=1000&color=1E15F7&width=850&lines=+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Elitery+as+Devops+Engineer;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+C+%2C+Network+and+Devops" alt="Typing SVG" /></a>
 <br/>
 
+---
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bebas+neue&size=50&pause=1500&color=F7CC18&width=2000&height=70&lines=What+if+life+is+just+simulation+like+truman+show+but+much+worse%3F;I'll+be+damned+for+sure" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dave-malvin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dave_malvin) 
