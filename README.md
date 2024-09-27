@@ -45,6 +45,13 @@
 
 </td></tr></table>  
 
+# 🏆 Github Thropy
+
+<br/>
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=SiberDave&theme=matrix&row=2&column=4&no-bg=true">
+</div>
+<br/>
 
 # 📊 GitHub Stats:
 <div align="center">
