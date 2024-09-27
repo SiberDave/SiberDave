@@ -12,7 +12,8 @@
 </div>  
 
 # 💫 About Me:
-🔭 I’m currently working on Elitery as Devops Engineer<br>🌱 I’m currently learning C , Network and Devops
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=oswald&size=25&pause=1000&color=1E15F7&width=850&lines=+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Elitery+as+Devops+Engineer;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+C+%2C+Network+and+Devops" alt="Typing SVG" /></a>
+<br/>
 
 
 ## 🌐 Socials:
