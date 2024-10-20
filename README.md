@@ -69,7 +69,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiberDave&theme=dark&hide_border=false" >  
 </div> </br>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiberDave&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiberDave&theme=transparent&layout=donut-vertical" >  
 </div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiberDave&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
